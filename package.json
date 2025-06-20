@@ -1,0 +1,25 @@
+{
+  "name": "backend_aplicacion_chat",
+  "version": "1.0.0",
+  "description": "Backend aplicacion de chat con respaldos",
+  "homepage": "https://github.com/JemersonRodriguez/Backend_Aplicacion_Chat#readme",
+  "bugs": {
+    "url": "https://github.com/JemersonRodriguez/Backend_Aplicacion_Chat/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JemersonRodriguez/Backend_Aplicacion_Chat.git"
+  },
+  "license": "ISC",
+  "author": "Jemerson Rodriguez",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "16.5.0",
+    "express": "5.1.0",
+    "winston": "3.17.0"
+  }
+}
